@@ -2,12 +2,10 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Making a Video game
 
 ## If you plan to collaborate with one or two classmates, what are their names?
-
-TODO
+Jai (Saketh) Nayak
 
 ## Do you have any questions of your own?
-
-TODO
+Not currently
